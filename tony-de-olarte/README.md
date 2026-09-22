@@ -12,7 +12,12 @@ Diseño: dirección **Cumbre** de Monterra. Uno de los tres posts va en registro
 
 ## Post 01 · Ya está en línea
 
-[`post-01-ya-en-linea/ya-en-linea.png`](post-01-ya-en-linea/ya-en-linea.png) — 2160×2160 · registro **Señal**
+[`post-01-ya-en-linea/ya-en-linea.png`](post-01-ya-en-linea/ya-en-linea.png) — 2160×2160 · registro **Señal** (maestro)
+[`post-01-ya-en-linea/ya-en-linea-1080.png`](post-01-ya-en-linea/ya-en-linea-1080.png) — 1080×1080 · **el que se sube a Instagram**
+
+Instagram sirve el feed cuadrado a 1080, así que se sube el de 1080 ya reducido con Lanczos
+y no se deja que Instagram lo reescale. El de 2160 es el maestro: presentaciones, impresión
+y cualquier recorte futuro.
 
 El anuncio. Es el único de los tres que grita.
 
@@ -22,11 +27,17 @@ así que se ve el encabezado entero: logo, los cinco enlaces y el botón *Cotiza
 misma línea y el celular queda a ras del margen derecho.
 
 > Tony de Olarte ya tiene sitio.
-> Diseño floral para bodas, XV y despedidas en Monterrey, ahora con galería, catálogo de ramos y cotización directa por WhatsApp.
+>
+> Casi treinta años decorando eventos en Monterrey, y desde hoy también en internet: galería por tipo de evento, catálogo de ramos y cotización que llega directo a su WhatsApp.
+>
+> Diseño y desarrollo por Monterra Solutions.
 >
 > tonydeolartedisenofloral.com
->
-> #MonterraSolutions #DiseñoWeb #Monterrey #DiseñoFloral
+
+Etiquetar a **@tonydeolarte.disenofloral** en la foto y en el texto. Ubicación: Monterrey.
+Los hashtags van en el **primer comentario**, no en el pie:
+
+> #DiseñoWeb #PáginasWeb #Monterrey #SanPedro #DiseñoFloral #BodasMonterrey #RamosDeNovia #DespedidaDeSoltera #XVAños #Emprendedores #NegociosLocales #MonterraSolutions
 
 ---
 
