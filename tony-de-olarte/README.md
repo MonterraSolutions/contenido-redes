@@ -12,9 +12,14 @@ Diseño: dirección **Cumbre** de Monterra. Uno de los tres posts va en registro
 
 ## Post 01 · Ya está en línea
 
-[`post-01-ya-en-linea/ya-en-linea.png`](post-01-ya-en-linea/ya-en-linea.png) — 1080×1080 · registro **Señal**
+[`post-01-ya-en-linea/ya-en-linea.png`](post-01-ya-en-linea/ya-en-linea.png) — 2160×2160 · registro **Señal**
 
 El anuncio. Es el único de los tres que grita.
+
+Las dos capturas son del sitio **en producción**, tomadas del viewport completo a scroll 0,
+así que se ve el encabezado entero: logo, los cinco enlaces y el botón *Cotizar*. Escritorio
+1440×900 a 2x (2880×1800) y celular 430×932 a 3x (1290×2796). Los dos aparatos apoyan en la
+misma línea y el celular queda a ras del margen derecho.
 
 > Tony de Olarte ya tiene sitio.
 > Diseño floral para bodas, XV y despedidas en Monterrey, ahora con galería, catálogo de ramos y cotización directa por WhatsApp.
@@ -78,6 +83,22 @@ La versión **4:5 de escritorio** es la original: su formulario todavía aparece
 **prellenado**, no se llena en cámara como el 9:16. Se publica así por ahora; queda
 pendiente regrabarla con la misma receta (`record.js`) para que las dos versiones
 cuenten lo mismo. Si hay que elegir una sola para publicar, usar el 9:16.
+
+---
+
+## Capturas del sitio
+
+[`capturas/sitio-escritorio-2880x1800.png`](capturas/sitio-escritorio-2880x1800.png)
+[`capturas/sitio-celular-1290x2796.png`](capturas/sitio-celular-1290x2796.png)
+
+El hero completo, sin recortar, listo para meterse en cualquier pieza nueva. Se vuelven a
+tomar con `shot.js` (Chrome headless + CDP): se siembra `tdo_consentimiento` en localStorage
+para que no salga el aviso de cookies, se dejan **terminar** las animaciones de entrada
+(`a.finish()`, nunca `currentTime = 0`, que las deja invisibles) y se cancelan las infinitas
+como el pulso del botón de WhatsApp.
+
+**Nunca recortar el encabezado.** El sitio es el producto que se vende: si el logo o el menú
+salen cortados, la pieza no se publica.
 
 ---
 
