@@ -23,11 +23,14 @@ git clone https://github.com/MonterraSolutions/contenido-redes.git
 
 ```
 cliente/
-├── README.md     el texto de cada publicación, listo para copiar
-├── posts/        imágenes sueltas 1080×1080
-├── carrusel/     las slides en orden
-└── videos/       los mp4 para reel
+├── README.md              el texto de cada publicación, listo para copiar
+├── post-01-<nombre>/      una carpeta por publicación
+├── post-02-<nombre>/
+└── post-03-<nombre>/      si es video, aquí van el mp4 y su portada
 ```
+
+Son **tres publicaciones por cliente**. Cada una vive en su propia carpeta con
+todo lo que necesita, y el README de arriba lleva el texto de las tres.
 
 Al agregar contenido nuevo de un cliente que ya está, se pone en su misma carpeta y se
 anota en su README. Si es un cliente nuevo, se crea su carpeta con la misma estructura.
