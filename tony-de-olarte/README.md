@@ -48,6 +48,7 @@ Sólo la fotografía. Sin titular, sin marco, sin dominio: abajo a la izquierda
 | Archivo | Medida | Para |
 |---|---|---|
 | [`post-03-video/reel-celular-9x16.mp4`](post-03-video/reel-celular-9x16.mp4) | 1080×1920 · 34 s | El reel |
+| [`post-03-video/reel-escritorio-4x5.mp4`](post-03-video/reel-escritorio-4x5.mp4) | 1080×1350 · 27 s | Feed — ver nota |
 | [`post-03-video/portada-reel-9x16.png`](post-03-video/portada-reel-9x16.png) | 1080×1920 | Portada del reel |
 | [`post-03-video/portada-feed-4x5.png`](post-03-video/portada-feed-4x5.png) | 1080×1350 | Portada en feed |
 | [`post-03-video/portada-grid-1x1.png`](post-03-video/portada-grid-1x1.png) | 1080×1080 | Miniatura del perfil |
@@ -71,11 +72,12 @@ desplegable y baja por las opciones hasta *Boda*, escribe la fecha por segmentos
 >
 > #MonterraSolutions #DiseñoWeb #Monterrey #DiseñoFloral #Bodas #XVAños
 
-### Pendiente
+### Nota sobre el 4:5
 
-La versión **4:5 de escritorio** todavía trae el formulario prellenado, así que no va en
-este set. Está guardada en la Mac como `reel-escritorio-4x5-PENDIENTE-REGRABAR.mp4` y hay
-que regrabarla con la misma receta que el 9:16.
+La versión **4:5 de escritorio** es la original: su formulario todavía aparece
+**prellenado**, no se llena en cámara como el 9:16. Se publica así por ahora; queda
+pendiente regrabarla con la misma receta (`record.js`) para que las dos versiones
+cuenten lo mismo. Si hay que elegir una sola para publicar, usar el 9:16.
 
 ---
 
